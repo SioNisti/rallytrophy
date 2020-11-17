@@ -1,5 +1,5 @@
 body {
-background-image: url("http://192.168.56.1/rallytrophy/rtimg/background.png");
+background-image: url("rtimg/background.png");
 background-attachment:fixed;
 background-color: black;
 }
