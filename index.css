@@ -15,6 +15,6 @@ p {
 }
 body {
   background-image: src("../img/rtbg.png");
-  background-color: gray;
+  background-color: black;
   background-attachment:fixed;
 }
