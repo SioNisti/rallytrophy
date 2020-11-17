@@ -1,0 +1,20 @@
+h1, h2, p {
+  color: blue;
+}
+h1 {
+  font-size: 72px;
+}
+h2 {
+  font-size: 60px;
+}
+p {
+  font-size: 42px;
+}
+.center {
+  text-align: center;
+}
+body {
+  background-image: src("../img/rtbg.png");
+  background-color: dark-gray;
+  background-attachment:fixed;
+}
