@@ -1,0 +1,35 @@
+body {
+background-image: url("http://192.168.56.1/rallytrophy/rtimg/background.png");
+background-attachment:fixed;
+background-color: black;
+}
+h1, h2, p, a {
+  color: white;
+  font-family:gothic;
+}
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 50px;
+}
+p, a {
+  font-size: 30px;
+}
+.center {
+  text-align: center;
+}
+.box {
+  width: 50%;
+  height: 82%;
+  margin-left: 25%;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-right: 1px solid White;
+  border-left: 1px solid White;
+  border-top: 1px solid White;
+  border-bottom: 1px solid White;
+}
+@font-face {
+   font-family: gothic;
+   src: url(gothic.ttf);
+}
