@@ -15,7 +15,21 @@
 </script>
 
   </head>
-	
+
+<style>	
+.rotate {
+  animation: rotation 8s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
+</style>	
 <body>
 
 <div class="center">
@@ -60,8 +74,9 @@
   <br>
   <br>
   <h1>404</h1>
-  <p>Oops this page doesn't exist</p>
-  
+  <p>Oops this page doesn't exist</p><br>
+  <img class="rotate" src="https://siontea.com/rallytrophy/rtimg/rt.ico">
+	
 </div>
 <body>
 </html>
