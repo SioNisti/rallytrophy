@@ -21,7 +21,7 @@ p, a {
 }
 .box {
   width: 50%;
-  height: 82%;
+	height: auto;
   margin-left: 25%;
   background-color: rgba(0, 0, 0, 0.5);
   border-right: 1px solid White;
