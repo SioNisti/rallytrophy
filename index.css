@@ -1,8 +1,8 @@
 body {
 background-image: url("rtimg/background1.png");
-background-attatchement: no-repeat ;
-background-attatchement: center ;
-background-attatchement: fixed;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
 -webkit-background-size: cover;
 -moz-background-size: cover;
 -o-background-size: cover;
