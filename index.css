@@ -22,12 +22,29 @@ p, a {
 }
 .box {
   width: 50%;
-  height: 82%;
+  height: 80%;
   margin-left: 25%;
   background-color: rgba(0, 0, 0, 0.5);
-  border: 1px solid White;
+  border-right: 1px solid White;
+  border-left: 1px solid White;
+  border-bottom: 1px solid White;
 }
 @font-face {
    font-family: gothic;
    src: url(gothic.ttf);
+}
+button {
+  background-color: #ffffff;
+  color: black;
+  text-align: center;
+  font-size: 16px;
+  width: 24.6%;
+}
+button:hover {
+  background-color: black;
+  color: white;
+}
+.linkbox {
+  border-bottom: 1px solid White;
+  width: 99.915%;
 }
