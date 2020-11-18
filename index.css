@@ -1,7 +1,9 @@
 body {
 background-image: url("rtimg/background.png");
-background-attachment:fixed;
 background-color: black;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center; 
 }
 h1, h2, p, a {
   color: white;
