@@ -17,6 +17,9 @@ h2 {
 p, a {
   font-size: 30px;
 }
+.smol {
+  font-size: 10px;
+}
 .center {
   text-align: center;
 }
