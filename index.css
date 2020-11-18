@@ -46,5 +46,6 @@ button:hover {
 }
 .linkbox {
   border-bottom: 1px solid White;
+  border-top: 1px solid White;
   width: 99.915%;
 }
