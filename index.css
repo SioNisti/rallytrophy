@@ -3,7 +3,6 @@ background-image: url("rtimg/background.png");
 background-color: black;
 background-repeat:no-repeat;
 background-attachment:fixed;
-background-position:center; 
 }
 h1, h2, p, a {
   color: white;
@@ -23,13 +22,10 @@ p, a {
 }
 .box {
   width: 50%;
-	height: auto;
+  height: 82%;
   margin-left: 25%;
   background-color: rgba(0, 0, 0, 0.5);
-  border-right: 1px solid White;
-  border-left: 1px solid White;
-  border-top: 1px solid White;
-  border-bottom: 1px solid White;
+  border: 1px solid White;
 }
 @font-face {
    font-family: gothic;
