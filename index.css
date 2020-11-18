@@ -1,8 +1,12 @@
 body {
-background-image: url("rtimg/background.png");
+background-image: url("rtimg/background1.png") no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+height: 100%;
+overflow: hidden;
 background-color: black;
-background-repeat:no-repeat;
-background-attachment:fixed;
 }
 h1, h2, p, a {
   color: white;
