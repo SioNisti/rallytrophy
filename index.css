@@ -29,7 +29,7 @@ p, a {
   text-align: center;
 }
 .box {
-  width: 960px;
+  width: 965px;
   height: 80%;
   margin-left: auto;
   margin-right: auto;
@@ -58,5 +58,5 @@ button:hover {
 .linkbox {
   border-bottom: 1px solid White;
   border-top: 1px solid White;
-  width: 960;
+  width: 965px;
 }
