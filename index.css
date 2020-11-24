@@ -37,9 +37,6 @@ p, a {
   border-left: 1px solid White;
   border-bottom: 1px solid White;
 }
-img {
-  margin-left:25%; 
-}
 @font-face {
    font-family: gothic;
    src: url(gothic.ttf);
